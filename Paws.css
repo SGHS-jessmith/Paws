@@ -1,6 +1,18 @@
 #banner img{
 	width: 100%;
 }
+#body {
+	margin: 0 0 0 0
+}
+#footer {
+	background-color: 35AB7B ;
+}
+h3 {
+	color: #FFFFFF ;
+	font-family: 'Roboto', sans-serif;
+	font-size: 100% ;
+	text-align: right ;
+}
 .menu {
 	width:16.7%;
 	position:relative;
@@ -40,7 +52,7 @@
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #87DE45;
+    background-color: #92E94F;
 }
 
 .dropdown-content {
@@ -62,7 +74,7 @@
 }
 
 .dropdown-content a:hover {
-    background-color: #87DE45;
+    background-color: #92E94F;
 }
 
 .dropdown:hover .dropdown-content {
