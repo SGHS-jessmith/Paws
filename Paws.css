@@ -5,13 +5,17 @@
 	margin: 0 0 0 0
 }
 #footer {
-	background-color: 35AB7B ;
+	background-color: #92E94F ;
 }
 h3 {
-	color: #FFFFFF ;
 	font-family: 'Roboto', sans-serif;
 	font-size: 100% ;
 	text-align: right ;
+}
+h2{
+	font-family: 'Roboto', sans-serif;
+	text-align: left;
+	width: 50%;
 }
 h1{
 	text-align: center ;
@@ -19,7 +23,11 @@ h1{
 	font-family: 'Lalezar', cursive;
 	
 }
-
+#profile img{
+	float: right;
+	height:250px ;
+	width:30% ;
+}
 .menu {
 	width:16.7%;
 	position:relative;
