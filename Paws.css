@@ -13,10 +13,10 @@
 	width:50%;
 }
 #body {
-	margin: 0 0 0 0
+	margin: 0 0 0 0;
 }
 #footer {
-	background-color: #92E94F ;
+	background-color: #ABE19A ;
 }
 h3 {
 	font-family: 'Roboto', sans-serif;
@@ -37,6 +37,11 @@ h1{
 h4{
 	font-family: 'Roboto', sans-serif;
 	font-size: 130% ;
+}
+h5{
+	font-family: 'Roboto', sans-serif;
+	font-size: 100%;
+	text-align: center ;
 }
 #profile img{
 	float: right;
@@ -119,7 +124,7 @@ input[type=submit]:hover {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #92E94F;
+    background-color: #ABE19A;
 }
 
 .dropdown-content {
@@ -141,7 +146,7 @@ input[type=submit]:hover {
 }
 
 .dropdown-content a:hover {
-    background-color: #92E94F;
+    background-color: #ABE19A;
 }
 
 .dropdown:hover .dropdown-content {
