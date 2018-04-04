@@ -44,10 +44,19 @@ h5{
 	font-size: 100%;
 	text-align: center ;
 }
+h6{
+	font-size: 200% ;
+	font-family: 'Lalezar', cursive;
+}
 #profile img{
 	float: right;
 	height:250px ;
 	width:30% ;
+}
+#information {
+	border: solid;
+	border-color: #3A73A2;
+	border-width:10px ;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
