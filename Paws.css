@@ -56,7 +56,7 @@ h6{
 #information {
 	border: solid;
 	border-color: #3A73A2;
-	border-width:10px ;
+	border-width:5px ;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
