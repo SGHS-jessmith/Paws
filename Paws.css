@@ -12,17 +12,18 @@
 	width: 20%;
 }
 #Lily{
-	border: solid;
+	border-bottom: solid;
+	border-top: solid;
 	border-color: #3A73A2;
 	border-width:5px ;
 }
 #John{
-	border: solid;
+	border-bottom: solid;
 	border-color: #3A73A2;
 	border-width:5px ;
 }
 #Emma {
-	border: solid;
+	border-bottom: solid;
 	border-color: #3A73A2;
 	border-width:5px ;
 }
