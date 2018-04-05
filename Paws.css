@@ -6,6 +6,11 @@
 	height:250px ;
 	width:30% ;
 }
+#adopt_info img{
+	float: right;
+	height: 300px;
+	width: 20%;
+}
 #map img{
 	float: right ;
 	width: 50% ;
@@ -53,7 +58,7 @@ h6{
 	height:250px ;
 	width:30% ;
 }
-#information {
+#profile {
 	border: solid;
 	border-color: #3A73A2;
 	border-width:5px ;
